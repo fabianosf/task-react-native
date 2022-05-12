@@ -1,3 +1,3 @@
 # task-react-native
 
-Aplicativa de Tarefas feito em React Native
+Aplicativo de Tarefas feito em React Native
